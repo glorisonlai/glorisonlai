@@ -1,7 +1,7 @@
 ## Hey, I'm Glorison 👋
 
 I'm a Melbourne based software engineer who likes making and tinkering with stuff. 
-I am interested in all things technology, and wherever my interests lie at the time. Below are a couple of projects I've done in no particular order.
+I am interested in all things technology, and wherever my interests lie at the time. Below are a couple of projects I've done, in no particular order:
 
 - [glorisonlai.tech](https://github.com/glorisonlai/glorisonlai.tech) - Personal blog. I write about security and programming. [Check it out!](https://glorisonlai.tech)
 - [RustyTorch](https://github.com/glorisonlai/rustytorch) - (WIP) Implementation of PyTorch using Rust bindings
